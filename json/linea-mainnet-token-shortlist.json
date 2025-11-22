@@ -3,12 +3,12 @@
   "tokenListId": "https://raw.githubusercontent.com/Consensys/linea-token-list/main/json/linea-mainnet-token-shortlist.json",
   "name": "Linea Mainnet Token List",
   "createdAt": "2023-07-13",
-  "updatedAt": "2025-10-10",
+  "updatedAt": "2025-10-22",
   "versions": [
     {
       "major": 1,
       "minor": 59,
-      "patch": 4
+      "patch": 5
     }
   ],
   "tokens": [
@@ -130,6 +130,24 @@
       "createdAt": "2025-05-20",
       "updatedAt": "2025-05-20",
       "logoURI": "https://i.ibb.co/CpLQqnMY/logo.png"
+    },
+    {
+      "chainId": 59144,
+      "chainURI": "https://lineascan.build/block/0",
+      "tokenId": "https://lineascan.build/address/0x3ADE1cED4D61D45d735E08880e66f4d8f1E1D9b1",
+      "tokenType": ["canonical-bridge"],
+      "address": "0x3ADE1cED4D61D45d735E08880e66f4d8f1E1D9b1",
+      "name": "BitPul",
+      "symbol": "BP",
+      "decimals": 6,
+      "createdAt": "2025-10-22",
+      "updatedAt": "2025-10-22",
+      "logoURI": "https://quicknode.quicknode-ipfs.com/ipfs/QmQhFv9nB7CqqozbmoT9aGDq8hS7j1V6hZcFWUnQhJ2jzU",
+      "extension": {
+        "rootChainId": 1,
+        "rootChainURI": "https://etherscan.io/block/0",
+        "rootAddress": "0x3ADE1cED4D61D45d735E08880e66f4d8f1E1D9b1"
+      }
     },
     {
       "chainId": 59144,
